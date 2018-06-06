@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "432270644215",
+    "firebase_url": "https://fireimage-4f921.firebaseio.com",
+    "project_id": "fireimage-4f921",
+    "storage_bucket": "fireimage-4f921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432270644215:android:e000ca6f1cfa4f38",
+        "android_client_info": {
+          "package_name": "mecalogik.com.fireimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432270644215-eestng14jrejlv36cvo9vc5a12uc6rju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.fireimage",
+            "certificate_hash": "e3a2af7ab2efbad6d0208633e4320691bcd68d44"
+          }
+        },
+        {
+          "client_id": "432270644215-u3epd9v959as9pk93r4uli9998q5amgd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "432270644215-u3epd9v959as9pk93r4uli9998q5amgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkHy1Z5JD-ruc_zBxyxqtd3HYkvtV-GY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432270644215-u3epd9v959as9pk93r4uli9998q5amgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432270644215:android:f7b384296ce8f8b7",
+        "android_client_info": {
+          "package_name": "mecalogik.com.tianquiztli_p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432270644215-idbo282tkvq4aobvsngpcim0nhalvo8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.tianquiztli_p",
+            "certificate_hash": "c6ff6954eed7c1d355a5db1c1c319ebae1852a44"
+          }
+        },
+        {
+          "client_id": "432270644215-u3epd9v959as9pk93r4uli9998q5amgd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "432270644215-u3epd9v959as9pk93r4uli9998q5amgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkHy1Z5JD-ruc_zBxyxqtd3HYkvtV-GY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432270644215-u3epd9v959as9pk93r4uli9998q5amgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
